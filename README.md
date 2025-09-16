@@ -1,0 +1,1 @@
+This scripts adds the ability to rollback your selection in WME if you accidentally lost your selection
