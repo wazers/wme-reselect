@@ -11,6 +11,8 @@
 // @author         GyllieGyllie
 // @license        MIT/BSD/X11
 // @require        https://greasyfork.org/scripts/24851-wazewrap/code/WazeWrap.js
+// @downloadURL    https://update.greasyfork.org/scripts/549760/WME%20Reselect.user.js
+// @updateURL      https://update.greasyfork.org/scripts/549760/WME%20Reselect.meta.js
 // ==/UserScript==
 /* Changelog
 
