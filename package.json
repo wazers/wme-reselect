@@ -1,0 +1,19 @@
+{
+  "name": "wme-reselect",
+  "version": "0.0.1",
+  "description": "Utility to redo recent selections for Waze Map Editor",
+  "scripts": {
+    "build": "tsc && find src -name '*.js' -exec sed -i'' 's/^export {};$//' {} +",
+    "watch": "tsc --watch"
+  },
+  "author": "GyllieGyllie",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.29",
+    "typescript": "^5.0.0",
+    "wme-sdk-typings": "https://web-assets.waze.com/wme_sdk_docs/production/latest/wme-sdk-typings.tgz"
+  }
+}
